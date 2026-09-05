@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Remcos.Core</RootNamespace>
+    <AssemblyName>Remcos.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
